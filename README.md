@@ -6,6 +6,8 @@ This project is a responsive website for a fictional juice company, Juiceables. 
 ## Live Demo
 
 https://juiceables-freshjuice.netlify.app/
+
+
 ## Screenshots
 
 ![App Screenshot](preview.png)
